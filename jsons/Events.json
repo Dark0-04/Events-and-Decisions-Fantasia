@@ -29,24 +29,6 @@
 	
 	},
 
-  {
-		"name": "Artists Protest the Eiffel Tower",
-		"text": "'We, writers, painters, sculptors, architects and passionate devotees of the hitherto untouched beauty of this nation, protest with all our strength, against the erection of this useless and monstrous Eiffel Tower. To bring our arguments home, imagine for a moment a giddy, ridiculous tower dominating this city like a gigantic black smokestack, crushing under its barbaric bulk all of our humiliated monuments which will disappear in this ghastly dream.'",
-		"choices": [
-			{ "text": "Idiots" } ,
-      
-     			{ "text": "We can't take it down! We're using it as a radio tower!",
-			  "uniques": [ "Gain a free [Broadcast Tower] [in this city]",
-                      			"Comment [Lose 250 Gold]",
-					"Gain [-250] [Gold] <hidden from users>" ]},
-      
-     			{ "text": "Fine, let's tear it down.",
-			  "uniques": ["Comment [Lose Eiffel Tower benefits]",
-				      "Remove [Eiffel Tower] [in all cities <in cities with a [Eiffel Tower]>] <hidden from users>",
-                                      "[2] free [Great Artist] units appear",
-                                      "[1] free [Great Engineer] units appear"] }]
-  },
-
 	 {
 		"name": "A Destitute Noble",
 		"text": "A destitute nobleman has arrived at your court. He is without Lord and pledges his service your name. The nobleman is ragged and unkempt, but adorned with many scars, and has evidently fielded many battles. It is up to you what is to be done with him.",
