@@ -72,21 +72,19 @@
 
 	{
 		"name": "Mercenaries",
-		"text": "A band of mercenaries, fresh from some foreign war now settled, has arrived at your Palace, and offer their services to you. These are no mere vagabonds; these are professional soldiers. If not us, then they might turn to our enemies.",
+		"text": "A band of giants from the lands of Erhab, fresh from some foreign war now settled, has arrived at your Palace, and offer their services to you. These are no mere vagabonds; these are professional soldiers. If not us, then they might turn to our enemies.",
 		"choices": [
 			{ "text": "We shall have no foreigners in our armies!",
-			  "uniques": [ "Rebel units may spawn <for [10] turns>",
-					"Gain [100] [Culture]"]},
+			  "uniques": [ "Rebel units may spawn <for [7] turns>",
+					"Gain [75] [Culture]"]},
 
 			{ "text": "We must turn them away!",
 			  "uniques": [ "Comment [The mercenaries leave.]"]},
       
      			{ "text": "Pay them well, and bring them into our service!",
-			  "uniques": [ "Comment [Lose 300 Gold]",
-				  	"Free [Landsknecht] appears",
-				  	"Free [Landsknecht] appears",
-				  	"Free [Landsknecht] appears",
-					"Gain [-300] [Gold] <hidden from users>" ] }]
+			  "uniques": [ "Comment [Lose 150 Gold]",
+				  	"Free [Rakshasa] appears",
+					"Gain [-150] [Gold] <hidden from users>" ] }]
   },
 
 	{
@@ -106,14 +104,6 @@
 				  	"Free [PMC] appears",
 				  	"Free [PMC] appears",
 					"Gain [-500] [Gold] <hidden from users>" ] }]
-  },
-
-	{
-		"name": "Struck Oil!",
-		"text": "Glorious news! Our workers have found a new, rich source of oil on a nearby our existing oil wells! The oil is sitting there, just waiting for us to drill it out.",
-		"choices": [
-			{ "text": "Wonderful news!",
-			  "uniques": [ "Double quantity of [Oil] produced <for [20] turns>"] }]
   },
 
 	{
