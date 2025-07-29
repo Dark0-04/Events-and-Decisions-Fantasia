@@ -93,7 +93,7 @@
 		"choices": [
 			{ "text": "We shall have no guns-for-hire in our armies!",
 			  "uniques": [ "Rebel units may spawn <for [10] turns>",
-					"Gain [100] [Culture]"]},
+					"Gain [250] [Culture]"]},
 
 			{ "text": "We must turn them away!",
 			  "uniques": [ "Comment [The PMC's leave.]"]},
@@ -149,7 +149,7 @@
 				       "[-3 Happiness] [in all cities] <for [10] turns>" ]},
 			
      			{ "text": "Whoever thinks this is a good idea are traitors to the state! Have them executed!",
-			  "uniques": ["[-3 Culture] [in all cities] <for [5] turns>",
+			  "uniques": ["[-3 Culture] [in all cities] <for [5] turns>", "[+2 Production] [in all cities] <for [5] turns>",
 				      "[+2 Happiness] [in all cities] <for [10] turns>"] }]
   },
 
@@ -173,10 +173,10 @@
 				       "[-3 Happiness] [in all cities] <for [10] turns>"]},
 			    
 			    {"text": "For the People!",
-			     "uniques": ["Comment [Lose 300 Gold]",
-				     	 "[+10 Production] [in all cities] <for [15] turns>",
-				     	 "Gain [-300] [Gold] <hidden from users>",
-			     		 "Gain a free [Factory] [in capital]"] } ]
+			     "uniques": ["Comment [Lose 400 Gold]",
+				     	 "[+10 Production] [in all cities] <for [10] turns>",
+				     	 "Gain [-400] [Gold] <hidden from users>",
+			     		 "Gain a free [Arcane Factory] [in capital]"] } ]
 	
 	},
 
@@ -216,10 +216,10 @@
 				  	"Comment [Lose 30 Faith]",
                                        	"[-2 Happiness] [in all cities] <for [5] turns>",
 				  	 "Gain [-30] [Faith] <hidden from users>",
-					"Gain [25] [Science] <during the [Ancient era]> <hidden from users>",
-					"Gain [65] [Science] <during the [Classical era]> <hidden from users>",
-			 		"Gain [110] [Science] <during the [Medieval era]> <hidden from users>",
-			  		"Gain [170] [Science] <during the [Renaissance era]> <hidden from users>"] } ]
+					"Gain [25] [Science] <during the [Archaic age]> <hidden from users>",
+					"Gain [65] [Science] <during the [Classical age]> <hidden from users>",
+			 		"Gain [110] [Science] <during the [Feudal age]> <hidden from users>",
+			  		"Gain [170] [Science] <during the [Renaissance age]> <hidden from users>"] } ]
   	},
 	{
 		    "name": "Harvest",
@@ -252,7 +252,7 @@
 			  "uniques": [	"[-10]% Strength <for [All] units> <for [10] turns>",
 				  	"Comment [Lose 75 Gold]",
 				  	"Gain [-75] [Gold] <hidden from users>",
-			  		"Only available <starting from the [Modern era]>"] }
+			  		"Only available <starting from the [Prosperity age]"] }
       
      			{ "text": "Execute any deserters. We need to set an example to stop our troops leaving the front.",
 			  "uniques": [ 	 "[-15]% Strength <for [All] units> <for [10] turns>",
@@ -298,7 +298,7 @@
 		    "choices": [
 			    {"text": "Damn.",
 			     "uniques": ["[-25]% [Gold] [in all cities] <for [5] turns>",
-				         "[+10 Gold] [in all cities] <for [10] turns>",
+				         "[-5 Gold] [in all cities] <for [10] turns>",
 			     		"[-5 Happiness] [in all cities] <for [5] turns>"] } ]
 	
 	},
@@ -321,7 +321,7 @@
 			    { "text": "Use their research to support our current military effort",
 			  "uniques": ["[-1 Science] from all [Science] buildings <for [10] turns>",
 			  		"[-25]% Production when constructing [Military] units [in all cities] <for [10] turns>",
-			  		"[+5]% Strength <for [All] units> <for [10] turns>",
+			  		"[+10]% Strength <for [All] units> <for [10] turns>",
 			  		"Only available <when at war> <hidden from users>"]},
 
 			     { "text": "Knowledge is of no use if it is not passed on.",
@@ -354,10 +354,10 @@
 			     { "text": "Evacuate all civilians immediately! We can't stop the asteroid, we can prevevnt the devestation it will cause.",
 			  "uniques": ["[-75]% growth [in all cities] <for [10] turns>",
 				  	"[-50]% [Production] [in all cities] <for [10] turns>",
-				  	"[+25]% [Culture] <in cities with a [Bomb Shelter]> <for [10] turns>",
-				  	"[-25]% [Culture] <in cities without a [Bomb Shelter]> <for [10] turns>",
-			  		"[+5 Happiness] <in cities with a [Bomb Shelter]> <for [10] turns>",
-			  		"[-5 Happiness] <in cities without a [Bomb Shelter]> <for [10] turns>"]},
+				  	"[+25]% [Culture] <in cities with a [Countermeasures Council] <for [10] turns>",
+				  	"[-25]% [Culture] <in cities without a [Countermeasures Council]> <for [10] turns>",
+			  		"[+5 Happiness] <in cities with a [Countermeasures Council]> <for [10] turns>",
+			  		"[-5 Happiness] <in cities without a [Countermeasures Council]> <for [10] turns>"]},
 			    
 			    {"text": "Screw the people, get all me top advisors and GET ME OUT OF HERE!",
 			     "uniques": ["Rebel units may spawn <for [50] turns>",
