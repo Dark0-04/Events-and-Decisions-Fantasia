@@ -44,39 +44,5 @@
 		"requiredTech": "Refrigeration",
         	"quote": "'Citius, Altius, Fortius – Communiter' - Olympic Motto"
 		"isWonder": true,
-	},
-	{
-		"name": "Colonial Offices",
-		"cost": 80,
-		"uniques": ["[+1] population [in this city]","[-1 Happiness] from each Trade Route","Unbuildable"],
-	},
-	{
-		"name": "Ishtar's Gate",
-		"cost": 80,
-		"culture": 2,
-		"percentStatBonus": {"production": 20},
-		"uniques": ["Provides [2] [Mušḫuššu Art]","Unbuildable"],
-		"isNationalWonder": true,
-	},
-	{
-		"name": "Stave Church",
-		"cost": 80,
-		"faith": 4,
-		"culture": 1,
-		"uniques": ["Unbuildable"],
-	},
-	{
-		"name": "Parish Church",
-		"cost": 80,
-		"faith": 2,
-		"gold": 3,
-		"uniques": ["Unbuildable"],
-	},
-	{
-		"name": "Hanse Guild",
-		"cost": 80,
-		"gold": 2,
-		"percentStatBonus": {"production": 10},
-		"uniques": ["Unbuildable"],
-	},
+	},	
 ]
