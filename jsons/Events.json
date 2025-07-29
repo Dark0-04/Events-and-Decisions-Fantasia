@@ -252,7 +252,7 @@
 			  "uniques": [	"[-10]% Strength <for [All] units> <for [10] turns>",
 				  	"Comment [Lose 75 Gold]",
 				  	"Gain [-75] [Gold] <hidden from users>",
-			  		"Only available <starting from the [Prosperity age]"] }
+			  		"Only available <starting from the [Prosperity age]>"] }
       
      			{ "text": "Execute any deserters. We need to set an example to stop our troops leaving the front.",
 			  "uniques": [ 	 "[-15]% Strength <for [All] units> <for [10] turns>",
@@ -282,7 +282,7 @@
 			  "uniques": [	"[+1 Gold] [in all cities] <for [5] turns>",
 			  		"[+2 Culture] [in all cities] <for [5] turns>",
 			  		"[+2 Happiness] [in all cities] <for [5] turns>",
-			  		"[+5 Gold] [in all cities] <in cities with a [Talents Audition] <for [5] turns>",
+			  		"[+5 Gold] [in all cities] <in cities with a [Talents Audition]> <for [5] turns>",
 			  		"[-5 Production] [in all cities] <for [5] turns>"] }
 
 			{ "text": "We shall only accept this offer if we are able to deny our enemies from participating. We need to beat them on the front, not on the field.",
@@ -349,12 +349,12 @@
 				  	"[+50]% [Culture] [in all cities] <for [20] turns>",
 				  	"All newly-trained [Military] units [in all cities] receive the [Saviours of the Planet] promotion <for [9999] turns>",
 			  		"[Military] units gain the [Saviours of the Planet] promotion",
-			  		"Only available <when number of [Warlock] is more than [0]> <hidden from users>"]},
+			  		"Only available <when number of [Nuclear Weapon] is more than [0]> <hidden from users>"]},
 
 			     { "text": "Evacuate all civilians immediately! We can't stop the asteroid, we can prevevnt the devestation it will cause.",
 			  "uniques": ["[-75]% growth [in all cities] <for [10] turns>",
 				  	"[-50]% [Production] [in all cities] <for [10] turns>",
-				  	"[+25]% [Culture] <in cities with a [Countermeasures Council] <for [10] turns>",
+				  	"[+25]% [Culture] <in cities with a [Countermeasures Council]> <for [10] turns>",
 				  	"[-25]% [Culture] <in cities without a [Countermeasures Council]> <for [10] turns>",
 			  		"[+5 Happiness] <in cities with a [Countermeasures Council]> <for [10] turns>",
 			  		"[-5 Happiness] <in cities without a [Countermeasures Council]> <for [10] turns>"]},
