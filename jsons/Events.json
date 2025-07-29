@@ -275,14 +275,14 @@
 			  "uniques": [	"[+15 Gold] [in capital] <for [5] turns>",
 			  		"[+15 Culture] [in capital] <for [5] turns>",
 			  		"[+15 Happiness] [in capital] <for [5] turns>",
-			  		"[+30 Gold] [in capital] <if [Stadium] is constructed> <for [5] turns>",
+			  		"[+30 Gold] [in capital] <if [Talents Audition] is constructed> <for [5] turns>",
 			  		"[-25]% [Production] [in capital] <for [5] turns>"]}
       
       			{ "text": "Prepare the entire nation for the Games. This way will show the world the glory of our empire!",
 			  "uniques": [	"[+1 Gold] [in all cities] <for [5] turns>",
 			  		"[+2 Culture] [in all cities] <for [5] turns>",
 			  		"[+2 Happiness] [in all cities] <for [5] turns>",
-			  		"[+5 Gold] [in all cities] <in cities with a [Stadium]> <for [5] turns>",
+			  		"[+5 Gold] [in all cities] <in cities with a [Talents Audition] <for [5] turns>",
 			  		"[-5 Production] [in all cities] <for [5] turns>"] }
 
 			{ "text": "We shall only accept this offer if we are able to deny our enemies from participating. We need to beat them on the front, not on the field.",
